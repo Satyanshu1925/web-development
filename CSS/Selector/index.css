@@ -1,0 +1,38 @@
+body h1+p .special{
+    color: yellowgreen;
+    background-color: bisque;
+    padding: 5px;
+}
+
+/* /* p{
+    color: green;
+}
+
+a{
+    color: green;
+} */
+/* p,a{
+    color: green;
+}
+li{
+    list-style-type: circle;
+} */
+/* .special{
+    color: orangered;
+    font-weight: bold;
+
+} */
+/* span.special,li.special {
+        color: orangered;
+            font-weight: bold;
+} */
+
+/* li em {
+    color: bisque;
+} */
+/* a.hover{
+    color: brown;
+    text-decoration: none;
+    font-weight: bold;
+} */
+
